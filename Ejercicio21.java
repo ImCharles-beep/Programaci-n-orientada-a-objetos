@@ -9,6 +9,7 @@ package poo;
         System.out.println("Color: " + Color);
         System.out.println("Tamaño: " + Tamaño + " cm");
     }
+}
 
 public class Ejercicio21 {
     public static void main(String[] args) {
@@ -16,15 +17,14 @@ public class Ejercicio21 {
         oso1.Nombre = "Teddy";
         oso1.Color = "Marrón";
         oso1.Tamaño = 30;
+        // segundo oso de peluche
         Osodepeluche oso2 = new Osodepeluche();
-        oso2.Nombre = "Pinky";    
+        oso2.Nombre = "Pinky";
         oso2.Color = "Rosa";
         oso2.Tamaño = 30;
-        
         oso1.MostrarInformacion();
         System.out.println("-------------------------");
         oso2.MostrarInformacion();
     }
-    
-}
-}
+
+    }
