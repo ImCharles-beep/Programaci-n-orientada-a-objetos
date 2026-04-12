@@ -1,4 +1,4 @@
-package poo;
+package poo.Ejercicio32;
 
 class Producto {
     String Nombre;

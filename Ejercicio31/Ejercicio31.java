@@ -1,4 +1,4 @@
-package poo;
+package poo.Ejercicio31;
 class Producto {
     String Nombre;
     double Precio;
