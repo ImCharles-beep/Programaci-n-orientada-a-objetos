@@ -1,4 +1,3 @@
-package poo;
 class Vehiculo {
     String Marca;
     String Modelo;

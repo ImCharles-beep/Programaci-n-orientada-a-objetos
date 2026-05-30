@@ -28,7 +28,8 @@ public class ProtectoIntegrador {
         CuentaBancaria nuevaCuenta = new CuentaBancaria(numCuenta, tipoCuenta);
 
         // Objeto de la clase Estudiante (usando constructor por defecto)
-        Estudiante nuevoEstudiante = new Estudiante();
+        Persona nuevoEstudiante = new Persona();
+        
         // 2. Mostrar los detalles de los objetos
         System.out.println("\n--- Resumen de los objetos creados ---");
         System.out.println(nuevoLibro.toString());

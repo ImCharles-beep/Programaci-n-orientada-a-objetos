@@ -1,4 +1,3 @@
-package poo;
 class libroConstructor {
     String Titulo;
     String Autor;

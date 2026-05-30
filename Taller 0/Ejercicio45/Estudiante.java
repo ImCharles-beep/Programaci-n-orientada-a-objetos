@@ -2,7 +2,7 @@ package poo.Ejercicio45;
 
 public class Estudiante {
     String nombre;
-} 
+}
 
 void saludar() { // Error: Fuera de los límites de la clase
     System.out.println("Hola");

@@ -1,6 +1,5 @@
 package poo.Ejercicio67;
-class Rutina
-{
+class Rutina {
     String nombre;
     String descripcion;
     int duracion; // en minutos

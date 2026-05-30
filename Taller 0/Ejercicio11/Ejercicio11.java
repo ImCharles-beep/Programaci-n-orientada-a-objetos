@@ -1,4 +1,3 @@
-package poo;
 class VehiculoAcelerar {
     String Marca;
     String Modelo;
