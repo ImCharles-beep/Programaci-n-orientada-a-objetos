@@ -1,0 +1,2 @@
+Figura f = new Figura(); // ❌ No compila
+// El error se debe a que Figura es una clase abstracta, y no se pueden crear objetos de una clase abstracta. Para solucionar el error, se debe crear una clase concreta que herede de Figura e implemente el método calcularArea(), y luego crear un objeto de esa clase concreta. Por ejemplo:

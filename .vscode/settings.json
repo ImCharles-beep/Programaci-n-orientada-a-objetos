@@ -1,6 +1,8 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "java.project.sourcePaths": [
+        "Taller 8/Ejercicio 2",
+        "Taller 7/Ejercicio1",
         "Taller 7/EJercicio3",
         "Taller 6/Ejercicio2",
         "Taller 6/Ejercicio1",
@@ -12,6 +14,6 @@
         "Taller 4/Ejercicio1",
         "Taller 1/Integrador",
         "Taller 0/Ejercicio01",
-        "Taller 7/Ejercicio1"
+        "Taller 8/Ejercicio 3"
     ]
 }
